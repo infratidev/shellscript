@@ -1,0 +1,6 @@
+host 4001-Nome1 { hardware ethernet 00:0c:83:bc:9a:83; fixed-address 192.168.187.45;}
+host 4002-Nome2 { hardware ethernet 00:0c:83:bc:9a:84; fixed-address 192.168.187.46;}
+host 4003-Nome3 { hardware ethernet 00:0c:83:bc:9a:85; fixed-address 192.168.187.47;}
+host 4004-Nome4 { hardware ethernet 00:0c:83:bc:9a:86; fixed-address 192.168.187.48;}
+
+
