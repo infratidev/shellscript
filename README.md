@@ -3,9 +3,9 @@
 ### 📋 infratidev
 
 ### Contents 
-  - [gen-dhcp-static-leases](gen-dhcp-static-leases/README.md)
-  - [gen-dhcp-static-leases-mac](gen-dhcp-static-leases-mac/README.md)
-  - [iptables-start](iptables-start/README.md)
+  - [gen-dhcp-static-leases](gen-dhcp-static-leases/)
+  - [gen-dhcp-static-leases-mac](gen-dhcp-static-leases-mac/)
+  - [iptables-start](iptables-start/)
 
 <br>
 
