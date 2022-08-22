@@ -1,4 +1,6 @@
-# 📋 infratidev
+[![Blog](https://img.shields.io/website?down_color=blue&down_message=infrati.dev&label=Blog&logo=ghost&logoColor=green&style=for-the-badge&up_color=blue&up_message=infrati.dev&url=https%3A%2F%2Finfrati.dev)](https://infrati.dev)
+
+## 📋 infratidev
 ### Geração de ranges dhcp estatico por mac
 
 * gen-static-dhcp-leases.sh
@@ -41,6 +43,7 @@
 #host alias { hardware ethernet 00:00:00:00:00:00; fixed-address 172.16.4.99;}
 #host alias { hardware ethernet 00:00:00:00:00:00; fixed-address 172.16.4.100;}
 ```
+<br>
 
-
+[![Blog](https://img.shields.io/website?down_color=blue&down_message=infrati.dev&label=Blog&logo=ghost&logoColor=green&style=for-the-badge&up_color=blue&up_message=infrati.dev&url=https%3A%2F%2Finfrati.dev)](https://infrati.dev)
 
